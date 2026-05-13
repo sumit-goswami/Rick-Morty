@@ -57,12 +57,6 @@ The app consumes the public Rick & Morty API:
 * Request cancellation
 * Smooth cell reuse handling
 
-## Shimmer Loading
-
-* Skeleton placeholder UI
-* No blank loading screens
-* Animated shimmer effect
-
 ## Dark Mode Support
 
 * Semantic system colors
